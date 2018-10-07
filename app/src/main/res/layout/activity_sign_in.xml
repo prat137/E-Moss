@@ -153,7 +153,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/dp20"
-            android:gravity="center"
+            android:gravity="left"
             android:text="@string/don_t_you_have_account_yet_signup_here"
             android:textColor="@color/black"
             android:textStyle="bold"
